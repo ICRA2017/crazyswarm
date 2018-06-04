@@ -1,0 +1,7 @@
+language: cpp
+
+before_install:
+  - sudo apt-get -qq update
+  - sudo apt-get install -y swig libpython-dev python-numpy python-yaml python-matplotlib
+
+script: ./buildSimOnly.sh
