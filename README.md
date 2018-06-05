@@ -1,7 +1,6 @@
 # crazyswarm
 
 [![Travis CI Build Status](https://travis-ci.org/ICRA2017/crazyswarm.svg?branch=reproducible)](https://travis-ci.org/ICRA2017/crazyswarm)
-
 [![Docker Build Status](https://dockerbuildbadges.quelltext.eu/status.svg?organization=icra2017&repository=crazyswarm)](https://hub.docker.com/r/icra2017/crazyswarm/builds/) 
 
 A Large Nano-Quadcopter Swarm.
