@@ -17,3 +17,4 @@ root@3415d34620bd:/# cd crazyswarm/
 root@3415d34620bd:/crazyswarm# cd ros_ws/src/crazyswarm/scripts
 root@3415d34620bd:/crazyswarm/ros_ws/src/crazyswarm/scripts# python figure8_csv.py --sim
 ```
+[![figure8_csv.py](https://img.youtube.com/vi/K1KiUWu1EzA/0.jpg)](http://www.youtube.com/watch?v=K1KiUWu1EzA)
