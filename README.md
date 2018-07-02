@@ -11,7 +11,7 @@ An X-server must be running in the host system, and permission for connections m
 For more secure configurations, see [this tutorial](http://wiki.ros.org/docker/Tutorials/GUI#Using_X_server).
 
 ```
-$ docker run -it --env="DISPLAY" --env="QT_X11_NO_MITSHM=1" \
+$ docker run -it --rm --env="DISPLAY" --env="QT_X11_NO_MITSHM=1" \
 --volume="/tmp/.X11-unix:/tmp/.X11-unix:rw" icra2017/crazyswarm
 root@3415d34620bd:/# cd crazyswarm/
 root@3415d34620bd:/crazyswarm# cd ros_ws/src/crazyswarm/scripts
